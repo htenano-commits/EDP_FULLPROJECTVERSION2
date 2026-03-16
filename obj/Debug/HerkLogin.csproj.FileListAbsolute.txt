@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\HerkLogin\bin\Debug\HerkLogin.exe.config
+C:\Users\1\Desktop\HerkLogin\bin\Debug\HerkLogin.exe
+C:\Users\1\Desktop\HerkLogin\bin\Debug\HerkLogin.pdb
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.Form1.resources
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.Properties.Resources.resources
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.csproj.GenerateResource.cache
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.exe
+C:\Users\1\Desktop\HerkLogin\obj\Debug\HerkLogin.pdb
